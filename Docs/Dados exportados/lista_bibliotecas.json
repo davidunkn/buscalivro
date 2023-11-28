@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Biblioteca José de Arimateia Perreira",
+        "address": "Av. das Fronteiras, 1952 - Nossa Sra. da Apresentação",
+        "lat": -5.749245000000001,
+        "lng": -35.2611753
+    },
+    {
+        "name": "Biblioteca Estadual Câmara Cascudo",
+        "address": "R. Potengi, 535 - Petrópolis",
+        "lat": -5.7848863,
+        "lng": -35.1975746
+    },
+    {
+        "name": "Biblioteca do IFRN ZN",
+        "address": "R. Brusque - Potengi",
+        "lat": -5.7494751,
+        "lng": -35.2608002
+    },
+    {
+        "name": "Biblioteca Jessé Pinto Freire Facex/UniFacex",
+        "address": "R. Orlando Silva, 1-227 - Capim Macio",
+        "lat": -5.8511146,
+        "lng": -35.2073543
+    },
+    {
+        "name": "Biblioteca Pública Municipal Esmeraldo Siqueira",
+        "address": "R. Câmara Cascudo - Cidade Alta",
+        "lat": -5.782079,
+        "lng": -35.20682499999999
+    },
+    {
+        "name": "Biblioteca do IFRN/CNAT - Sebastião Názaro do Nascimento",
+        "address": "Av. Sen. Salgado Filho, 1559 - Tirol",
+        "lat": -5.811891699999999,
+        "lng": -35.2035018
+    },
+    {
+        "name": "Biblioteca Central Zila Mamede (BCZM/UFRN)",
+        "address": "Rua da Biblioteca, S/N - Campus Universitário da UFRN - Lagoa Nova",
+        "lat": -5.8398115,
+        "lng": -35.1990203
+    },
+    {
+        "name": "Biblioteca Rui Pereira",
+        "address": "CENEP",
+        "lat": -5.7849411,
+        "lng": -35.2009761
+    },
+    {
+        "name": "Biblioteca Virgílio Urbano de Araújo",
+        "address": "R. Floresta, 80 - Rocas",
+        "lat": -5.7706591,
+        "lng": -35.20364199999999
+    },
+    {
+        "name": "Biblioteca Do NEPSA/CCSA",
+        "address": "Av. Cap. Mor Gouveia, 2751-2795 - Lagoa Nova",
+        "lat": -5.8377833,
+        "lng": -35.1978631
+    },
+    {
+        "name": "Biblioteca Setorial Prof. Leopoldo Nelson - CB/UFRN",
+        "address": "Centro de Biociências, UFRN",
+        "lat": -5.8417257,
+        "lng": -35.2018339
+    },
+    {
+        "name": "Anexo da BCZM - Biblioteca Central Zila Mamede",
+        "address": "Lagoa Nova",
+        "lat": -5.8392681,
+        "lng": -35.1994312
+    },
+    {
+        "name": "Biblioteca Setorial Árvore do Conhecimento",
+        "address": "Av. Nascimento de Castro, 2155 - Lagoa Nova",
+        "lat": -5.8201711,
+        "lng": -35.2019068
+    },
+    {
+        "name": "Art Of Reading",
+        "address": "R. João Pessoa, 105 - Cidade Alta",
+        "lat": -5.7863432,
+        "lng": -35.2073039
+    },
+    {
+        "name": "Biblioteca Escolar Professor Américo de Oliveira Costa",
+        "address": "Av. Itapetinga, 1430 - Potengi",
+        "lat": -5.7450253,
+        "lng": -35.2467256
+    },
+    {
+        "name": "FAROL DO CONHECIMENTO",
+        "address": "R. das Nogueiras - Pitimbú",
+        "lat": -5.8650584,
+        "lng": -35.2304276
+    },
+    {
+        "name": "Biblioteca CCHLA",
+        "address": "Lagoa Nova",
+        "lat": -5.8392952,
+        "lng": -35.1978945
+    },
+    {
+        "name": "Biblioteca Central Sebastião Fernandes",
+        "address": "Tirol",
+        "lat": -5.8118823,
+        "lng": -35.2034572
+    },
+    {
+        "name": "Centro de Educação Ambiental e Biblioteca",
+        "address": "Rua Prefeito Omar O'grady - Pitimbú",
+        "lat": -5.851401,
+        "lng": -35.2282642
+    },
+    {
+        "name": "Biblioteca Setorial do CCSA - UFRN",
+        "address": "Av. Sen. Salgado Filho, 3000 NEPSA 1 - CCSA/UFRN - Lagoa Nova",
+        "lat": -5.8397239,
+        "lng": -35.2017443
+    }
+]

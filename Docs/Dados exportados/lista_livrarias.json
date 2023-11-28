@@ -1,0 +1,116 @@
+[
+    {
+        "name": "Livraria Leitura",
+        "address": "Av. Sen. Salgado Filho, 2234 - Candelária",
+        "lat": -5.842010699999999,
+        "lng": -35.2109116
+    },
+    {
+        "name": "Mundo Livraria",
+        "address": "Centro Empresarial Sun City - Av. Miguel Alcídes de Araújo, 1926 - Loja 03 - Capim Macio",
+        "lat": -5.8476088,
+        "lng": -35.2072478
+    },
+    {
+        "name": "Livraria Nobel Natal",
+        "address": "Av. Engenheiro Roberto Freire, 3132 - Capim Macio",
+        "lat": -5.8666218,
+        "lng": -35.185477
+    },
+    {
+        "name": "PAULUS Livraria - Natal",
+        "address": "R. Cel. Cascudo, 333 - Cidade Alta",
+        "lat": -5.7869852,
+        "lng": -35.20463549999999
+    },
+    {
+        "name": "Promo Livros",
+        "address": "Av. Nevaldo Rocha, 923 - Quintas",
+        "lat": -5.811602199999999,
+        "lng": -35.2073957
+    },
+    {
+        "name": "Livraria CPAD - Natal - RN",
+        "address": "R. Dr. Manoel Miranda, 209 - Alecrim",
+        "lat": -5.795910800000001,
+        "lng": -35.2195166
+    },
+    {
+        "name": "Livraria Arco Íris",
+        "address": "Av. Rio Branco, 431 - Cidade Alta",
+        "lat": -5.782949599999999,
+        "lng": -35.2052822
+    },
+    {
+        "name": "Livraria Confiança Filial",
+        "address": "R. Pres. Sarmento, 656 - Alecrim",
+        "lat": -5.800017599999999,
+        "lng": -35.2208055
+    },
+    {
+        "name": "Paulinas Livraria",
+        "address": "R. João Pessoa, 220 - Cidade Alta",
+        "lat": -5.7872873,
+        "lng": -35.2057919
+    },
+    {
+        "name": "Livraria Independência",
+        "address": "R. Amaro Barreto, 1243 - Alecrim",
+        "lat": -5.7942933,
+        "lng": -35.2165309
+    },
+    {
+        "name": "OCC LIVRARIA E PAPELARIA",
+        "address": "R. Cunha Porã, 2477 - Potengi",
+        "lat": -5.7512203,
+        "lng": -35.2614887
+    },
+    {
+        "name": "Livraria Anchieta",
+        "address": "Av. Rio Branco, 829 - Centro",
+        "lat": -5.7896084,
+        "lng": -35.20826600000001
+    },
+    {
+        "name": "A Casa do Colegial",
+        "address": "Avenida Almirante Alexandrino de Alencar, 422 - Alecrim",
+        "lat": -5.794671999999999,
+        "lng": -35.2153959
+    },
+    {
+        "name": "Livraria Manimbu",
+        "address": "R. Açu, 666a - Tirol",
+        "lat": -5.789645,
+        "lng": -35.1986665
+    },
+    {
+        "name": "Feira de Livros Cidade Jardim",
+        "address": "Av. Engenheiro Roberto Freire, 2920 - Capim Macio",
+        "lat": -5.8513217,
+        "lng": -35.2054431
+    },
+    {
+        "name": "Livraria Espírita Auta de Souza-Praia Shopping",
+        "address": "Av. Engenheiro Roberto Freire, 8790 - Ponta Negra",
+        "lat": -5.8735908,
+        "lng": -35.1798305
+    },
+    {
+        "name": "Livraria Progresso Mundial",
+        "address": "Conjunto Panatis I - Avenida Paulistana, 2166 A - Potengi",
+        "lat": -5.7632514,
+        "lng": -35.2618874
+    },
+    {
+        "name": "Livraria Cooperativa Cultural",
+        "address": "Centro de Convivência - Av. Sen. Salgado Filho, s/n - 08 - Lagoa Nova",
+        "lat": -5.8396836,
+        "lng": -35.2001316
+    },
+    {
+        "name": "Comercial Brasil Livraria e Papelaria",
+        "address": "R. Vig. Bartolomeu, 591 - Cidade Alta",
+        "lat": -5.7853315,
+        "lng": -35.20742190000001
+    }
+]
